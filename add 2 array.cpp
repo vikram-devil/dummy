@@ -8,7 +8,7 @@ vector<int> add(vector<int> arr1,vector<int> arr2){
 	int j=arr2.size()-1;
 	vector<int> ans;
 	
-	while(i>=0 || j>=0){
+	while(iiiiiii>=0 || j>=0){
 		int k=arr1[i]+arr2[j];
 		if(k>9 and i-1>=0){
 			ans.push_back(k%10);
